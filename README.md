@@ -12,13 +12,13 @@ Create a Ble controller to send keys to the Tesla sign-in app
  ------I have created Ble scenes that can enter in the text, but I have not completed everything for the Bluetooth side so that code is untested
  
 Create an evil portal app that sends received data straight to the Tesla app
-	- deploy evil portal
-	- on receiving data control phone sends the user and pass
-	- send one one-time passcode to the phone
-  - Optional (but maybe necessary): Upon receiving connection from one user lock out any other info from other users so that there isn't dual input
+- deploy evil portal
+- on receiving data control phone sends the user and pass
+- send one one-time passcode to the phone
+ - Optional (but maybe necessary): Upon receiving connection from one user lock out any other info from other users so that there isn't dual input
 
 
 After this is completed for the Tesla example app 
--- Evil portal will select an HTML file and a config file
-  -Normal html file for evil portal
-  -Config file should contain expected inputs and outputs
+- Evil portal will select an HTML file and a config file
+-  Normal html file for evil portal
+-  Config file should contain expected inputs and outputs
