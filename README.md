@@ -3,7 +3,7 @@ An Evil portal app that will log in to a Ble-connected phone with the credential
 
 This is a current work in progress and for demonstration purposes, I am using Tesla as an example company 
 
-## Game plan is:
+## Game plan is
 
 Completed! - Create a Tesla Sign-On Screen that sends both the username and password then on submit asks and sends the One-Time Passcode
 
