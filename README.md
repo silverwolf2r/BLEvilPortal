@@ -1,4 +1,4 @@
-# EvilPortalBLE
+# BLEvilPortal
 An Evil portal app that will log in to an app on Ble-connected phone with the credentials it receives.
 
 This is a current work in progress and for demonstration purposes, I am using Tesla as an example company 
